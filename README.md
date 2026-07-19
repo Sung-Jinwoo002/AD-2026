@@ -5,7 +5,7 @@
 En esta etapa del proyecto, nos enfocamos en el análisis exploratorio (EDA) y la estandarización del dataset para garantizar resultados fiables.
 
 ### Contenido de la Fase:
-- **03_analisis_exploratorio.dbc**: Notebook de Databricks que contiene el flujo completo de análisis, incluyendo KPIs clave (Ventas, Ganancias, Total de Pedidos) y visualizaciones estratégicas.
+- **03_analisis_exploratorio.ipynb**: Notebook de Databricks que contiene el flujo completo de análisis, incluyendo KPIs clave (Ventas, Ganancias, Total de Pedidos) y visualizaciones estratégicas.
 - **superstore_limpio.csv**: Dataset final procesado, libre de valores nulos y duplicados, con columnas estandarizadas para su uso inmediato en cualquier entorno.
 
 ### 📊 Dashboard Interactivo
